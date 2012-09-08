@@ -1,0 +1,37 @@
+
+    	body{margin:0px;height:100%;width:100%;
+
+        background-color:black ;
+        color:	grey ;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        border-left:40px solid gray;
+        border-top:40px solid gray;
+        border-style:groove;
+       
+border-color:white;
+        
+        }
+        h1{text-align:center;}
+        .centre{
+	margin-left:500px;
+        margin-top:100px;
+        
+	}
+        div.centre
+{
+width:300px;
+padding:10px;
+border:10px solid gray;
+border-style:ridge;
+border-color:grey;
+margin-left:545px;
+margin-bottom:400px;}
+.formbutton{
+cursor:pointer;
+border:outset 1px #ccc;
+background:#999;
+color:black;
+font-weight:bold;
+padding: 1px 2px;
+
+        
